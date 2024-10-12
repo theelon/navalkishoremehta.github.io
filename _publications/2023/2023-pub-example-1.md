@@ -1,17 +1,18 @@
 ---
-title:          "Lorem ipsum: Dolor sit amet, consectetur adipiscing elit"
+title:          "JS-SpoofNet: A Jointly Supervised Parallel Branched Neural Network for Spoof Detection"
 date:           2023-01-05 00:01:00 +0800
 selected:       true
-pub:            "Nature Communications"
+pub:            "Neurocomputing Journal, Elsevier"
 pub_date:       "2023"
 abstract: >-
-  Cover image is a photo by Thomas Renaud on Unsplash. The abstract of the publication is meant to be a TLDR (very brief summary with 1~2 sentences) of your paper.
-cover:          /assets/images/covers/cover1.jpg
+ Spoof detection in real-world conditions remains a challenge for face anti-spoofing systems. To address this, we introduced the CSDiNE dataset, featuring diverse illumination and background variations. Our proposed JS-SpoofNet is a jointly supervised parallel branched neural network that leverages temporal cues from video sequences for robust spoof detection. It integrates a spoof classification network with an auxiliary depth estimation network, achieving an ACER of 0.94% on the CSDiNE dataset and outperforming state-of-the-art methods on benchmark datasets.
+cover:          /assets/images/covers/JSpoofNet.png
 authors:
-- Your Name*
-- Robert White*
-- John Doe
-- Charles Green (Stanford)
+- Shyam S Prasad 
+- Naval Kishore Mehta
+- Abeer Banerjee
+- Sumeet Saurav
+- Sanjay Singh
 links:
-  Paper: https://www.cell.com
+  Paper: https://linkinghub.elsevier.com/retrieve/pii/S0925231223007336
 ---
